@@ -1,14 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chawan Peemanaw</h1>
 <h3 align="center">A passionate frontend developer.</h3>
-
-- 🔭 My Senior Project [My Senior Project](https://github.com/masterleo1420/MyProject-Final)
-
-- 🌱 I’m currently learning **Vue3.js**
-
-- 👯 I’m looking to collaborate on [calcurate-currency](https://calcurate-currency.pages.dev/)
-
-- 🤝 I’m looking for help with [Show Profile](https://profile-chawan.pages.dev/)
-
 - 📫 How to reach me **peemanaw.chawan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
